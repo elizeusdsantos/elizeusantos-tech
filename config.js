@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Elizeu Santos',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: "Software engineer, passionate about software development.",
     contacts: {
       email: 'elizeusdsantos@gmail.com',
       telegram: '#',
