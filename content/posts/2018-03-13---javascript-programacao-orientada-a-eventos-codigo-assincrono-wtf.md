@@ -11,7 +11,7 @@ tags:
   - "software"
   - "development"
   - "beginner"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
+description: "O ano é 2017 e eu entrei em parafuso com tanta coisa acontecendo ao mesmo tempo na minha vida. Nesse post falo um pouco de minha tragetória profissional e faço uma breve introdução a JavaScript. Espero que goste :)"
 ---
 
 ### Como me meti com isso?
