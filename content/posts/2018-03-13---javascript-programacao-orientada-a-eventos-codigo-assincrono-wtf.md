@@ -11,7 +11,7 @@ tags:
   - "software"
   - "development"
   - "beginner"
-description: "O ano é 2017 e eu entrei em parafuso com tanta coisa acontecendo ao mesmo tempo na minha vida. Nesse post falo um pouco de minha tragetória profissional e faço uma breve introdução a JavaScript. Espero que goste :)"
+description: "O ano é 2017 e eu entrei em parafuso com tanta coisa acontecendo ao mesmo tempo na minha vida. Neste post falo um pouco de minha trajetória profissional e faço uma breve introdução a JavaScript. Espero que gostem."
 ---
 
 ### Como me meti com isso?
